@@ -1,0 +1,3 @@
+1;z.zidane;automovil;30000;SantaMarta;SantaMarta;2023-10-16;09:00:00;1;;;2023-10-10
+3;z.zidane;atv;280000;Bogota;Bogota;2023-10-25;10:00:00;6;;;2023-10-22
+4;z.zidane;automovil;150000;Bogota;Bogota;2023-10-24;10:00:00;4;;;2023-10-22

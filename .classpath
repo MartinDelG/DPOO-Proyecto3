@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/barcodes-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/barcodes-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/barcodes-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/font-asian-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/forms-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/forms-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/forms-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/hyph-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/io-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/io-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/io-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/kernel-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/kernel-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/kernel-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/layout-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/layout-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/layout-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/pdfa-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/pdfa-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/pdfa-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/pdftest-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/pdftest-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/pdftest-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/sign-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/sign-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/sign-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/styled-xml-parser-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/styled-xml-parser-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/styled-xml-parser-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/svg-7.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/svg-7.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars/svg-7.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars2/reload4j-1.2.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars2/slf4j-api-2.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/marti/Desktop/junk/jars2/slf4j-reload4j-2.0.9.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

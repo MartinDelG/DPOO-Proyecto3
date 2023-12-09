@@ -1,0 +1,18 @@
+1;wew123;BMW;m4;rojo;automatica;150000000;automovil;SantaMarta;z.zidane;1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2;esd432;BMW;t4;azul;automatica;150000000;moto;SantaMarta;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3;rwd345;BMW;x6;negro;automatica;150000000;atv;SantaMarta;0;1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4;wew163;BMW;m4;rojo;automatica;150000000;automovil;Bogota;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5;ese432;BMW;t4;azul;automatica;150000000;moto;Bogota;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6;qwd345;BMW;x6;negro;automatica;150000000;atv;Bogota;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7;wew323;BMW;m4;rojo;automatica;150000000;automovil;Medellin;0;0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8;ewd432;BMW;t4;azul;automatica;150000000;moto;Medellin;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9;rzd355;BMW;x6;negro;automatica;150000000;atv;Medellin;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10;rzd355;BMW;x6;negro;no aplica;150000000;bicicleta;SantaMarta;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11;rzd355;BMW;x6;negro;no aplica;150000000;bicicleta eléctrica;SantaMarta;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12;rzd355;BMW;x6;negro;no aplica;150000000;patineta eléctrica;SantaMarta;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13;rzd355;BMW;x6;negro;no aplica;150000000;bicicleta;Bogota;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14;rzd355;BMW;x6;negro;no aplica;150000000;bicicleta eléctrica;Bogota;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15;rzd355;BMW;x6;negro;no aplica;150000000;patineta eléctrica;Bogota;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16;rzd355;BMW;x6;negro;no aplica;150000000;bicicleta;Medellin;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17;rzd355;BMW;x6;negro;no aplica;150000000;bicicleta eléctrica;Medellin;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18;rzd355;BMW;x6;negro;no aplica;150000000;patineta eléctrica;Medellin;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
